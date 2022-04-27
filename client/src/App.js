@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          MERN Project
+          MERN Project Test
         </a>
       </header>
     </div>
